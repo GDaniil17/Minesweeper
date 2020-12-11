@@ -1,0 +1,10 @@
+E:\Desktop\Сапёр\bin\Debug\Сапёр.exe.config
+E:\Desktop\Сапёр\bin\Debug\Сапёр.exe
+E:\Desktop\Сапёр\bin\Debug\Сапёр.pdb
+E:\Desktop\Сапёр\obj\Debug\Сапёр.csprojAssemblyReference.cache
+E:\Desktop\Сапёр\obj\Debug\Сапёр.Properties.Resources.resources
+E:\Desktop\Сапёр\obj\Debug\Сапёр.csproj.GenerateResource.cache
+E:\Desktop\Сапёр\obj\Debug\Сапёр.csproj.CoreCompileInputs.cache
+E:\Desktop\Сапёр\obj\Debug\Сапёр.exe
+E:\Desktop\Сапёр\obj\Debug\Сапёр.pdb
+E:\Desktop\Сапёр\obj\Debug\Сапёр.Form1.resources
